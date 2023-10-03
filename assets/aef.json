@@ -1,0 +1,14 @@
+{
+    "spriteSheet": {
+        "fileName": "/assets/player/aef.png",
+        "animation":[
+            {
+                "walk": {"start": 1, "frames": 8},
+                "idle": {"start": 0, "frames": 1},
+                "jump": {"start": 2, "frames": 4},
+                "listen": {"start": 3, "frames": 1},
+                "attack": {"start": 4, "frames": 5}
+            }
+        ]
+    }
+}
